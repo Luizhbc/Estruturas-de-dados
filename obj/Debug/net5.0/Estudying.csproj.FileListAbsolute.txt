@@ -1,0 +1,15 @@
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estudying.exe
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estudying.deps.json
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estudying.runtimeconfig.json
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estudying.runtimeconfig.dev.json
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estudying.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\ref\Estudying.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estudying.pdb
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.AssemblyInfoInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.AssemblyInfo.cs
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.csproj.CoreCompileInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\ref\Estudying.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.pdb
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estudying.genruntimeconfig.cache

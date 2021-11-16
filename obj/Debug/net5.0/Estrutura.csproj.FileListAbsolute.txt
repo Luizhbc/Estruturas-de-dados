@@ -1,0 +1,16 @@
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estrutura.exe
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estrutura.deps.json
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estrutura.runtimeconfig.json
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estrutura.runtimeconfig.dev.json
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estrutura.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\ref\Estrutura.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\bin\Debug\net5.0\Estrutura.pdb
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.AssemblyInfoInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.AssemblyInfo.cs
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\ref\Estrutura.dll
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.pdb
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.genruntimeconfig.cache
+C:\Users\LuizH\Documents\C-SHARP\Estudying\obj\Debug\net5.0\Estrutura.csproj.AssemblyReference.cache
